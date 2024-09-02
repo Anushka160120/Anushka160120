@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka160120&label=Profile%20views&color=0e75b6&style=flat" alt="anushka160120" /> </p>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fd-coder111%2Fd-coder111&psig=AOvVaw0-bTFMeNU7acE9v377XDOc&ust=1725369523827000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjR6omtpIgDFQAAAAAdAAAAABA1">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&s">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
